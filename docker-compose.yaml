@@ -1,0 +1,13 @@
+version: '3.9'
+
+services:
+  jdbc-mysql:
+    image: mysql:latest
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: shop
+    volumes:
+      - ./dbdata:/var/lib/mysql
+    ports:
+      - 3306:3306

@@ -1,0 +1,27 @@
+
+I
+src/main/webapp/index.jsp,8/e/8e6d3b70c9f5b02570779b0441540d45eceb0ded
+O
+src/main/webapp/WEB-INF/web.xml,2/e/2e22b6edd746fa3dc40ad7276c87c8d87d72a392
+f
+6src/main/java/com/vansisto/service/ProductService.java,5/d/5d2fae0dd13c01359924b92baf4ca08eb938147c
+^
+.src/main/java/com/vansisto/dao/ProductDAO.java,0/a/0a19b3950235450e9e264c62d9ea7cec36b9404e
+e
+5src/main/java/com/vansisto/config/MySQLConnector.java,6/d/6d855070a628b241f9d23fdf8d24841503226831
+f
+6src/main/java/com/vansisto/servlet/ProductServlet.java,6/a/6a58220eb369c206b27d2a60810cefe393dc77d5
+7
+pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+C
+docker-compose.yaml,e/f/ef8def03dc8f162799089e9b5f4321201c8810d5
+]
+-src/main/java/com/vansisto/util/RestUtil.java,c/d/cd34ae32f4ba34095808e3445beebf8c43339a69
+j
+:src/main/java/com/vansisto/servlet/HealthcheckServlet.java,9/e/9e2d5b2d9607a8331421df14ca4367c386b16435
+o
+?src/main/java/com/vansisto/service/impl/ProductServiceImpl.java,5/c/5c9ddd07ad9426e88d2d20c1cc631bab2731fd45
+]
+-src/main/java/com/vansisto/model/Product.java,5/9/592fd78e6e75e5c39c421f9e63a7877fa53d99bc
+g
+7src/main/java/com/vansisto/dao/impl/ProductDAOImpl.java,d/3/d3a305a0cc1b7ae5de1544fdfb09747359f66d6b
